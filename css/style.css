@@ -185,6 +185,19 @@ img {
 .works-item:nth-of-type(3n) {
   margin-right: 0;
 }
+.works-item2 {
+  width: 31.74603%;
+  margin-right: 1.58730%;
+  margin-bottom: 40px;
+  color: #333;
+  margin-top: 6% !important;
+}
+
+.works-item2:hover {
+  opacity: .9;
+}
+
+
 
 .works-img img {
   border: 1px solid #646464;
@@ -515,6 +528,10 @@ a.btn_02:hover {
     margin-bottom: 30px;
   }
 
+  .works-item2{
+    margin: 12% auto 0!important;
+  }
+
   /* Skill */
   .skill-list {
     display: block;
@@ -584,6 +601,6 @@ a.btn_02:hover {
   }
   a.btn_02 {
     width: 50%;
-    padding: 1rem 1rem;
+    padding: 1rem 2rem;
   }
 }
